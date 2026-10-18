@@ -36,7 +36,7 @@ check_path = Path(file_input_splitted + ".txt")
 print("\nFile name : ", check_path)
 
 github_url = "https://github.com/umutermisfersan"
-api_key = 'f92cb680503efba61ca9e8d953bb72ad40d6718e' # Api key here / Api key buraya giriniz.. via serper.dev
+api_key = 'HERE' # Api key here / Api key buraya giriniz.. via serper.dev
 threads = []
 keywords = ""
 kw_list = ""
